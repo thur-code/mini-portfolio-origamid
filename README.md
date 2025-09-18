@@ -30,7 +30,7 @@ O objetivo principal foi praticar a estruturação semântica em **HTML5** e o u
 
 ## 📂 Status do projeto
 
-✅ Concluído – Projeto guiado do curso Origamid
+✅ Concluído
 
 ---
 
