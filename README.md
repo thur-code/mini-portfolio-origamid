@@ -7,7 +7,7 @@ O objetivo principal foi praticar a estruturação semântica em **HTML5** e o u
 
 ## 🚀 Preview
 
-🔗 [Acesse o projeto online aqui](https://www.origamid.com/projetos/portfolio/)  
+🔗 [Acesse o projeto online aqui](https://thur-code.github.io/mini-portfolio-origamid/)  
 
 ![Preview do site](./lobo.png)
 
