@@ -36,14 +36,6 @@ O objetivo principal foi praticar a estruturação semântica em **HTML5** e o u
 
 ---
 
-## 📂 Estrutura do projeto
-
-- `index.html` → Página principal do portfólio  
-- `css/style.css` → Estilos principais do site  
-- `img/` → Imagens utilizadas  
-
----
-
 ## 📂 Status do projeto
 
 ✅ Concluído
