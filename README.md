@@ -9,7 +9,7 @@ O objetivo principal foi praticar a estruturação semântica em **HTML5** e o u
 
 🔗 [Acesse o projeto online aqui](https://thur-code.github.io/mini-portfolio-origamid/)  
 
-![Preview do site](./lobo.png)
+![Preview do site](./img.png)
 
 ---
 
