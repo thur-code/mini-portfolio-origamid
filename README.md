@@ -15,16 +15,32 @@ O objetivo principal foi praticar a estruturação semântica em **HTML5** e o u
 
 ## 🛠 Tecnologias utilizadas
 
-- HTML5  
-- CSS3 (Flexbox, Grid e responsividade)  
+- **HTML5** (estrutura semântica)  
+- **CSS3** (estilização e layout)  
+- **Flexbox** (organização dos elementos em seções)  
+- **Responsividade** (ajuste do layout em diferentes telas)
 
 ---
 
 ## 🎯 Objetivos de aprendizado
 
-- Estruturar páginas com HTML semântico  
-- Criar layouts responsivos com CSS  
-- Organizar e reutilizar estilos de forma eficiente  
+- Estrutura inicial de pastas e arquivos  
+- Uso de tags semânticas (header, main, footer, section, article etc.)  
+- Inserção e estilização de imagens e ícones  
+- Estilização tipográfica (cores, tamanhos e hierarquia de textos)  
+- Box Model (margins, paddings, borders)  
+- Flexbox (alinhamento e distribuição de elementos)  
+- Organização de layout em colunas e linhas  
+- Responsividade com media queries  
+- Boas práticas na organização do código
+
+---
+
+## 📂 Estrutura do projeto
+
+- `index.html` → Página principal do portfólio  
+- `css/style.css` → Estilos principais do site  
+- `img/` → Imagens utilizadas  
 
 ---
 
